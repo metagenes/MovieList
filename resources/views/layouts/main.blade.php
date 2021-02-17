@@ -9,7 +9,7 @@
 </head>
 <body class="font-sans bg-gray-900 text-white">
     <nav class="border-b border-gray-800">
-        <div class="container mx-auto flex items-content justify-between px=4 py-6">
+        <div class="container mx-auto px-4 flex items-content justify-between px=4 py-6">
             <ul class="flex items-center">
                 <li class="">
                     <a href="#" class="">
